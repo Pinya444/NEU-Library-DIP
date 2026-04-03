@@ -40,7 +40,7 @@ The Student class now interacts with the abstraction (`LibraryResource`) instead
 
 ## UML Class Diagram
 
-(Insert diagram image or text here)
+![UML Diagram](NEU-Library-DIP-Image.png)
 
 ---
 
